@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CiudadesLibrary", "CiudadesLibrary\CiudadesLibrary.csproj", "{AD430248-2012-44A0-B84C-5823D1A4B88B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CiudadesApp", "CiudadesApp\CiudadesApp.csproj", "{C4D7199C-E803-43AB-8963-BE8049C94319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD430248-2012-44A0-B84C-5823D1A4B88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD430248-2012-44A0-B84C-5823D1A4B88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD430248-2012-44A0-B84C-5823D1A4B88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD430248-2012-44A0-B84C-5823D1A4B88B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4D7199C-E803-43AB-8963-BE8049C94319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D7199C-E803-43AB-8963-BE8049C94319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D7199C-E803-43AB-8963-BE8049C94319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D7199C-E803-43AB-8963-BE8049C94319}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC3B545A-6B6C-4AA4-9303-086967FDFC66}
+	EndGlobalSection
+EndGlobal
